@@ -1,9 +1,7 @@
-# mokacoin
+# Cateina CMS Portal
 
-New cryptocurrency called mokacoin created by me, following the ERC20 token Standard.
+The Cateina CMS Portal is a portal system for employees in Cateina which can be used to register every employee to communicate with their managers/HRs to apply for leaves, reimburse company expenses, make technical posts, upload their credentials and documents and can check employee birthdays.
 
-Created using Ganache and truffle. Used Express for my frontend.
+Sqlite3 is being used as it database. Users have to signup to their accounts by a relevant login password and the CMS Portal also has features when users forget their password or want to change so if need be. 
 
-Can be deployed to the rinkeby test network using geth.
-
-Cost of 1 Mokacoin(MKC) is = 1000000 WEI.
+User data can be changed by themselves or the HR/managers.
